@@ -54,10 +54,11 @@ In this lab we will automate functional tests using Selenium Web driver for a We
 
     ![Reporte Jest](img/console.png)
 
-### 3. Setup 
+### 4. Setup 
 
 * Clone Repository `git clone https://github.com/luismoroco/Selenium-Jest.git`.
 * Enter the directory `cd <LOCAL REPOSITORY>`.
 * Install modules `npm install`.
 * Start testing `npm test`.
-* Happy Hacking!
+
+### Happy Hacking!
