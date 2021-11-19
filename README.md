@@ -16,7 +16,7 @@ In this lab we will automate functional tests using Selenium Web driver for a We
 ### 1. Implementing Test Cases for the "Percentage Calculator" functionality
 
 * Design test cases: Inputs, process, Expected Result
-* Implement the Selenium scripts in the `percentage.js` file.
+* Implement the Selenium scripts in the `scripts/Fx.js` and `scripts/Fx1.js` file.
 
 ![Test script](img/casosdepruebaFx.png)
 
