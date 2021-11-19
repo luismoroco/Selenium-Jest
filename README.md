@@ -60,3 +60,4 @@ In this lab we will automate functional tests using Selenium Web driver for a We
 * Enter the directory `cd <LOCAL REPOSITORY>`.
 * Install modules `npm install`.
 * Start testing `npm test`.
+* Happy Hacking!
